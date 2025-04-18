@@ -1,8 +1,8 @@
-# Ubuntu Aliases Collection
+# Ubuntu Aliases Collection 🐧
 
 A repository containing all my essential Ubuntu aliases for work and daily tasks. Easily install them on any new Ubuntu system with a single command.
 
-## Features
+## ✨ Features
 - System management shortcuts
 - Git workflow optimizations
 - Directory navigation helpers
@@ -17,5 +17,5 @@ cd ubuntu-aliases
 ./install.sh
 ```
 
-## License
+## 📜 License
 This project is licensed under MIT open source license. Complete terms are available in the LICENSE file.
