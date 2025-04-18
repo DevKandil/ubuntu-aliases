@@ -7,7 +7,7 @@ A repository containing all my essential Ubuntu aliases for work and daily tasks
 - Git workflow optimizations
 - Directory navigation helpers
 
-## íº€ Installation
+## ðŸš€ Installation
 
 To install these aliases on a new Ubuntu system:
 
