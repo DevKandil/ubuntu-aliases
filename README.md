@@ -14,6 +14,7 @@ To install these aliases on a new Ubuntu system:
 ```bash
 git clone https://github.com/DevKandil/ubuntu-aliases.git
 cd ubuntu-aliases
+chmod +x install.sh
 ./install.sh
 ```
 
