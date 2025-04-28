@@ -22,4 +22,24 @@ alias gp='git push'
 alias gpl='git pull'
 
 # Custom work aliases
-# Add your work-specific aliases here
+
+# Bedayaat
+
+alias beup='cd ~/Documents/work/be && docker compose -f docker-compose-local.yml up -d'
+alias bedown='cd ~/Documents/work/be && docker compose -f docker-compose-local.yml down'
+
+# CEC
+alias cecup='cd ~/Documents/work/cec && docker compose up -d'
+alias cecdown='cd ~/Documents/work/cec && docker compose down'
+
+# Attndly
+alias attndlyup='cd ~/Documents/work/attendo && docker compose -f docker-compose-dev.yml up -d'
+alias attndlydown='cd ~/Documents/work/attendo && docker compose -f docker-compose-dev.yml down'
+
+#Thqaa
+alias thqaaup='cd ~/Documents/work/avocato && docker compose -f docker-compose-local.yml up -d'
+alias thqaadown='cd ~/Documents/work/avocato && docker compose -f docker-compose-local.yml down'
+
+#WLS
+alias wlsup='cd ~/Documents/work/wls && docker compose up -d'
+alias wlsdown='cd ~/Documents/work/wls && docker compose down'
